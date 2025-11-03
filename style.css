@@ -1,0 +1,19 @@
+.container-fluid {
+    height: 100vh;
+    background: #FF6D02;
+background: linear-gradient(90deg, rgba(255, 109, 2, 1) 0%, rgba(253, 48, 29, 1) 50%, rgba(0, 0, 0, 1) 100%);
+font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+}
+
+.row {
+    min-height: 200px;
+    align-items: center;
+    text-align: center;
+}
+
+#text {
+    font-size: 9rem;
+    color: #FFFFFF;
+}
+
+
