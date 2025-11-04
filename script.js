@@ -14,3 +14,10 @@ function changeName(){
 function revertName (){
     nameTxt.innerHTML = "...";
 }
+switch (changeName){
+    case 1:
+    document.body.style.background = "#f3f3f3 url('https://files.catbox.moe/gccs1c.jpg') no-repeat right top";
+    break;
+    case 2:
+    document.body.style.background = "#f3f3f3 url('https://files.catbox.moe/a1mdmo.jpg') no-repeat right top";
+}
